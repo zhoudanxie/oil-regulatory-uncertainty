@@ -32,7 +32,7 @@ else:
 #---------------------------------------Plot Oil Regulatory Uncertainty Index-------------------------------------------
 #-----------------------------------------------------------------------------------------------------------------------
 # Oil regulatory uncertainty index
-regIndex=pd.read_csv(f'{directory}/../data/oil_regulatory_uncertainty_index.csv')
+regIndex=pd.read_csv(f'{directory}/../data/oil_regulatory_uncertainty_index_baseline.csv')
 
 regIndex['Year-Month']=regIndex['Year'].map(str)+'-'+regIndex['Month'].map(str)
 regIndex['date']=regIndex['Year-Month'].astype('datetime64[ns]').dt.date
@@ -231,6 +231,9 @@ def normalize_data(data_col):
         return data_col_std
 
 #%% Journal-based measure
+regIndex_robust=pd.read_csv(f'{directory}/../data/oil_regulatory_uncertainty_index_robust.csv')
+
+regIndex=regIndex.merge(regIndex_robust.drop('YM',axis=1),on=['Year','Month'],how='left')
 regIndex['RegUncertaintyIndexMean_Journal'] = regIndex['RegUncertaintyIndex_Journal'].rolling(window=12,center=True).mean()
 
 #%% Plot

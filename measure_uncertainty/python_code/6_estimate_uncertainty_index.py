@@ -48,7 +48,7 @@ def specify_timeframe(df):
 # %%
 # Import saved uncertainty scores
 df=pd.read_csv(f'{directory}/../data/all_uncertainty_scores_baseline.csv')
-print(df.info())
+# print(df.info())
 
 # Process data
 df=merge_newspapers(df)
@@ -58,7 +58,7 @@ df=specify_timeframe(df)
 #---------------------------------------Baseline oil regulatory uncertainty index---------------------------------------
 #-----------------------------------------------------------------------------------------------------------------------
 
-print('This code will reproduce the oil regulatory uncertainty index '
+print('This code will reproduce the baseline oil regulatory uncertainty index '
       '(pre-saved in /data/oil_regulatory_uncertainty_index_baseline.csv).\n'
       'Note: This may take a few minutes.')
 
@@ -121,7 +121,7 @@ RegUncertaintyIndex[['Year','Month','YM','RegUncertaintyIndex']].\
 #---------------------------------------Alternative oil regulatory uncertainty index------------------------------------
 #-----------------------------------------------------------------------------------------------------------------------
 
-print('This code will reproduce the oil regulatory uncertainty index '
+print('This code will reproduce the alternative oil regulatory uncertainty indexes '
       '(pre-saved in /data/oil_regulatory_uncertainty_index_robust.csv).\n'
       'Note: This may take a few minutes.')
 
@@ -197,7 +197,7 @@ RegUncertaintyIndex_Robust=RegUncertaintyIndex_Econ.\
 print(RegUncertaintyIndex_Robust.head())
 
 # Save estimated index
-RegUncertaintyIndex[['Year','Month','YM','RegUncertaintyIndex_Econ','RegUncertaintyIndex_Broad','RegUncertaintyIndex_Journal']].\
+RegUncertaintyIndex_Robust[['Year','Month','YM','RegUncertaintyIndex_Econ','RegUncertaintyIndex_Broad','RegUncertaintyIndex_Journal']].\
         to_csv(f'{directory}/../data/oil_regulatory_uncertainty_index_robust.csv',index=False)
 
 
