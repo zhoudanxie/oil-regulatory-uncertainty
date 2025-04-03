@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>391942977</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publication">NEWSPAPER</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>BUSH TAPS EPA CHIEF TO BE HHS SECRETARY</Title>
+      </TitleAtt>
+      <SubTitleAtt>
+         <SubTitle>[SOONER Edition]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2004-12-14</NumericDate>
+      <StartDate>2004-12-14</StartDate>
+      <EndDate>2004-12-14</EndDate>
+      <AlphaDate>Dec 14, 2004</AlphaDate>
+      <PageCount>0</PageCount>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language>       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Post Gazette Publishing Company Dec 14, 2004</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.13</StartPage>
+         <Pagination>A-13</Pagination>
+         <DocSection>WORLD</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>768080091</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>14283571</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>7358</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>PITT</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>PPGZ200412130241</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1750</LexileScore>
+      <DateLine>WASHINGTON</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>Peter Baker and Ceci Connolly, The Washington Post</DisplayForm>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Peter Baker and Ceci Connolly, The Washington Post</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="ABI">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Environmental Protection Agency--EPA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>924110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+     </Terms>
+      <Abstract>
+         <Short WordCount="148">
+            <AbsText HTMLContent="true">          &lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title/&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;   [Mike Leavitt]'s surprise selection put another fellow former Republican governor and [BUSH] loyalist into the president's top tier for the second term, supervising an agency that handles some of the most politically sensitive domestic issues. It also rounded out the Cabinet except for the  Department of Homeland Security, where Bush advisers scrambled to find a  replacement for its first choice, Bernard Kerik, who abruptly withdrew  Friday.&lt;/p&gt;              &lt;p&gt;   Bush is also still looking for a new U.N. ambassador and, with Leavitt's departure, will need a new EPA director. NASA director Sean O'Keefe resigned yesterday in anticipation of taking an academic post. And David Hobbs, the chief White House lobbyist on Capitol Hill, said he plans to leave to spend more time with his infant son.&lt;/p&gt;              &lt;p&gt;   Bush described Leavitt, whose 11 years as Utah governor overlapped with Bush's tenure in the Texas capital, as "an ideal choice" to lead HHS.&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</AbsText>
+         </Short>
+      </Abstract>
+      <LegacyDataMapping>       
+         <CreatedBy>OODS Backfile</CreatedBy>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="504" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title/&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;   President Bush yesterday tapped Mike Leavitt, chief of the Environmental Protection Agency, to be his next secretary of health and human services as the White House sought to put its Cabinet selection  process back on track after the collapse of its homeland security  nomination.&lt;/p&gt;              &lt;p&gt;   Leavitt's surprise selection put another fellow former Republican governor and Bush loyalist into the president's top tier for the second term, supervising an agency that handles some of the most politically sensitive domestic issues. It also rounded out the Cabinet except for the  Department of Homeland Security, where Bush advisers scrambled to find a  replacement for its first choice, Bernard Kerik, who abruptly withdrew  Friday.&lt;/p&gt;              &lt;p&gt;   The White House defended its vetting process, which failed to uncover the fact that Kerik, a former New York police commissioner, had employed an illegal Mexican immigrant as a nanny without paying employment taxes. White House officials said they knew in advance about other disclosures now emerging about Kerik's background, including alleged extramarital affairs and reported ties to a construction company with supposed mob connections, but had concluded that they were not disqualifying.&lt;/p&gt;              &lt;p&gt;   As the Cabinet turnover neared an end, the White House also turned attention to other top posts to be filled in the coming weeks, most prominently the new director of national intelligence created by legislation Bush plans to sign Friday.&lt;/p&gt;              &lt;p&gt;   Two senior administration officials yesterday said CIA Director Porter Goss was not under consideration and would remain at Langley, Va., working under the new intelligence director.&lt;/p&gt;              &lt;p&gt;   Bush is also still looking for a new U.N. ambassador and, with Leavitt's departure, will need a new EPA director. NASA director Sean O'Keefe resigned yesterday in anticipation of taking an academic post. And David Hobbs, the chief White House lobbyist on Capitol Hill, said he plans to leave to spend more time with his infant son.&lt;/p&gt;              &lt;p&gt;   In introducing Leavitt yesterday in the Roosevelt Room of the White House, Bush made no mention of the Kerik debacle, which was unusual for an administration known for its discipline, and he took no questions from reporters.&lt;/p&gt;              &lt;p&gt;   It fell to White House press secretary Scott McClellan later in the day to insist that the screening system for nominees was not broken.&lt;/p&gt;              &lt;p&gt;   Bush described Leavitt, whose 11 years as Utah governor overlapped with Bush's tenure in the Texas capital, as "an ideal choice" to lead HHS.&lt;/p&gt;              &lt;p&gt;   But some health care advocates said Leavitt deferred to industry. Robert Musil, executive director of Physicians for Social Responsibility, said Leavitt "consistently undercut and failed to enforce regulations to protect public health."&lt;/p&gt;              &lt;p&gt;   In a statement, Musil added, "From his record, he appears to be more interested in protecting the health of the chemical and energy industries' bottom lines."&lt;/p&gt;              &lt;div&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="pq_source" value="csx"/&gt;&lt;param name="pq_etype" value="41"/&gt;&lt;param name="mstar_entity_inline" value="N"/&gt;&lt;param name="mstar_entity_type" value="Illustration"/&gt;&lt;div class="Illustration_content"&gt;&lt;p&gt;PHOTO; Caption: PHOTO: Brendan Smialowski/Agence France-Presse/Getty Images: President Bush with Mike Leavitt, who was nominated to be the next secretary of health and human services.&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/div&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Pittsburgh Post - Gazette</Title>
+         <MpubId>46186</MpubId>
+         <SortTitle>Pittsburgh Post - Gazette</SortTitle>
+         <Qualifier>Pittsburgh, Pa.</Qualifier>
+         <JournalCode>PITT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19780101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Pittsburgh Post - Gazette</PublisherName>
+            <PublisherAddress>
+               <Address1>358 North Shore Drive, Suite 300</Address1>
+               <City>Pittsburgh</City>
+               <Province>PA</Province>
+               <ZipCode>15212</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.post-gazette.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7358</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>1068624X</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60690.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Pittsburgh Post - Gazette</Title>
+            <SortTitle>Pittsburgh Post - Gazette</SortTitle>
+            <Qualifier>Pittsburgh, Pa.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7358</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>1068624X</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60690.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 18, 1993</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19930118</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 14, 2004</AlphaDate>
+         <StartDate>2004-12-14</StartDate>
+         <EndDate>2004-12-14</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>14283571</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

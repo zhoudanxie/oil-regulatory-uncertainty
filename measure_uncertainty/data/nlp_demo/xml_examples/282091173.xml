@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>282091173</GOID>
+   
+   <Obj>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publication">NEWSPAPER</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>Removing Oil on Driveway</Title>
+      </TitleAtt>
+      <SubTitleAtt>
+         <SubTitle>[Home Edition]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>1993-04-11</NumericDate>
+      <StartDate>1993-04-11</StartDate>
+      <EndDate>1993-04-11</EndDate>
+      <AlphaDate>Apr 11, 1993</AlphaDate>
+      <PageCount>0</PageCount>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>(Copyright, The Times Mirror Company; Los Angeles Times 1993all Rights reserved)</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>4</StartPage>
+         <Pagination>4</Pagination>
+         <DocSection>Real Estate; PART-K; Real Estate Desk</DocSection>
+         <ColumnHeader>HANDYMAN Q &amp; A</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>60233580</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>1227616</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>33796</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>ANG9</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>LATM2261315</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <Abstract>
+         <Short WordCount="92">
+            <AbsText HTMLContent="true">
+          &lt;html&gt;
+            &lt;head&gt;
+              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;
+              &lt;title/&gt;
+            &lt;/head&gt;
+            &lt;body&gt;
+              &lt;p&gt;
+   QUESTION: I am going to put a blacktop sealer on my asphalt driveway. This will be the third sealer application on a 7-year-old driveway. Oil spots from automobile leaks always show through after a sealer application. I have tried to raise the oil spots with gasoline, turpentine, lacquer thinner, methyl ethyl ketone and soaps. I have tried to hide the spots by painting over them with flat black spray paint, all to no avail. Can you advise me of anything, short of a new driveway, that would cover these oil spots?
+&lt;/p&gt;
+            &lt;/body&gt;
+          &lt;/html&gt;
+</AbsText>
+         </Short>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: $</MappingVersion>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="338" HTMLContent="true">
+          &lt;html&gt;
+            &lt;head&gt;
+              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;
+              &lt;title/&gt;
+            &lt;/head&gt;
+            &lt;body&gt;
+              &lt;p&gt;
+   QUESTION: I am going to put a blacktop sealer on my asphalt driveway. This will be the third sealer application on a 7-year-old driveway. Oil spots from automobile leaks always show through after a sealer application. I have tried to raise the oil spots with gasoline, turpentine, lacquer thinner, methyl ethyl ketone and soaps. I have tried to hide the spots by painting over them with flat black spray paint, all to no avail. Can you advise me of anything, short of a new driveway, that would cover these oil spots?
+&lt;/p&gt;
+              &lt;p&gt;
+   ANSWER: If you continue to attempt to remove or seal the oil spots with gasoline or some other petroleum product, you may have to patch that area of the driveway sooner than you think. Those products will dissolve the asphalt binder.
+&lt;/p&gt;
+              &lt;p&gt;
+   Revere Products, in Solon, Ohio, has just the product you need to keep oil spots from showing through the driveway sealer. The product is called Oil Spot Primer, and Revere claims it will seal oil, grease, gas and chemical stains on asphalt. The company says the primer can be used with all types of driveway sealers.
+&lt;/p&gt;
+              &lt;p&gt;
+   Prior to applying the primer, sweep off dirt and dust from the driveway. Also, scrape off built-up spots of oil, grease, dirt and chemical substances. If the driveway is very dirty, the company also offers a pavement cleaner. Apply the primer with a brush or roller. For more information, write Revere Products, 6680 Parkland Blvd., Solon, OH 44139, or call Revere at (800) 321-1976.
+&lt;/p&gt;
+              &lt;p&gt;
+Long-Lasting Paint Works on Aluminum
+&lt;/p&gt;
+              &lt;p&gt;
+   Q: I recently purchased a home with finished aluminum soffits, fascias, gutters and window trim. I would like to paint these a different color. Is this possible? And, if so, will I be repainting every four years and lose out on the benefits of aluminum trim?
+&lt;/p&gt;
+              &lt;p&gt;
+   A: PPG Industries has a latex paint specifically formulated for repainting pre-finished aluminum siding and trim. It's called Metal Siding Refinish, and comes in a variety of colors to match current popular siding colors.
+&lt;/p&gt;
+            &lt;/body&gt;
+          &lt;/html&gt;
+</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times (pre-1997 Fulltext)</Title>
+         <MpubId>47000</MpubId>
+         <SortTitle>Los Angeles Times (pre-1997 Fulltext)</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANG9</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>33796</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">N</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times (pre-1997 Fulltext)</Title>
+            <SortTitle>Los Angeles Times (pre-1997 Fulltext)</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>33796</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1985</AlphaStartDate>
+            <AlphaEndDate>Dec 3, 1996</AlphaEndDate>
+            <NumericStartDate>19850101</NumericStartDate>
+            <NumericEndDate>19961203</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 11, 1993</AlphaDate>
+         <StartDate>1993-04-11</StartDate>
+         <EndDate>1993-04-11</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>1227616</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

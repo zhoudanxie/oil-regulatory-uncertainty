@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>902573990</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publisher">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>Gas industry: Rules on drilling are excessive</Title>
+      </TitleAtt>
+      <NumericDate>2011-11-08</NumericDate>
+      <StartDate>2011-11-08</StartDate>
+      <EndDate>2011-11-08</EndDate>
+      <AlphaDate>Nov 8, 2011</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright 2011 - Rochester Democrat and Chronicle  NY - All Rights Reserved</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+         <DocSection>BUSINESS</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>2505395771</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>65434881</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>98710</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>RDMC</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>GNETRDMC20111108roc-97944430</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1800</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Campbell, Jon</NormalizedDisplayForm>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Campbell</LastName>
+               </LastNameAtt>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jon</FirstName>
+               </FirstNameAtt>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>Jon Campbell</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Hydraulic fracturing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Natural gas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Gas industry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="ABI" PndxHeader="true">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="ABI" PndxHeader="true">
+            <Geographic>New York</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium WordCount="49">
+            <AbsText HTMLContent="true">          &lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;' No other industry operating within New York, even though possibly impacting the environment to a greater extent than the oil and gas industry, will be burdened by these unjustified, excessive and inequitable rules, regulations, requirements, mitigation measures, permit conditions and access restrictions, executive director Brad Gill wrote. &lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /builds/sis980007/sis/gs40/RCS/gs40.xslt,v 2.29 2011/07/06 15:21:17 azastrow Exp $</MappingVersion>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="662" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;ALBANY -- A gas industry trade group estimates the state's proposed hydraulic fracturing requirements would cost companies an additional $1 million per well to drill in New York compared to other states.&lt;/p&gt;              &lt;p&gt;In a strongly worded letter to the state's top environmental regulator, the Independent Oil &amp;amp; Gas Association of New York said many of the Department of Environmental Conservation's proposals are far too restrictive and "do not send the signal that New York state is 'open for business.'"&lt;/p&gt;              &lt;p&gt;"No other industry operating within New York, even though possibly impacting the environment to a greater extent than the oil and gas industry, will be burdened by these unjustified, excessive and inequitable rules, regulations, requirements, mitigation measures, permit conditions and access restrictions," executive director Brad Gill wrote.&lt;/p&gt;              &lt;p&gt;The Sept. 2 letter, which was sent to DEC Commissioner Joseph Martens and Gov. Andrew Cuomo and obtained by Gannett's Albany Bureau, came as the DEC was putting the final touches on its latest regulatory proposals for the controversial hydrofracking technique. Most of the proposed regulations were released in July.&lt;/p&gt;              &lt;p&gt;Those proposals include a ban on surface drilling on state land, through primary aquifers and within 4,000 feet of the New York City and Syracuse watersheds, as well as a variety of other setbacks and mitigation measures.&lt;/p&gt;              &lt;p&gt;Gill said many of those provisions are "without a scientific basis or rationale" and would result in a "lost economic opportunity for New York totaling billions of dollars." He asked for the watershed and state land bans to be repealed, and for some of the other setbacks to be rolled back or eliminated.&lt;/p&gt;              &lt;p&gt;If the proposals are adopted as is, he wrote, New York would not be competitive with other states, resulting in state and local governments missing out on property, income and sales tax revenue, as well as a considerable supply of natural gas.&lt;/p&gt;              &lt;p&gt;"If the state fails with the biggest economic opportunity available to it through the development of its clean-burning, indigenous natural gas resources, New York policymakers must understand the message that this will send to all industries," Gill wrote.&lt;/p&gt;              &lt;p&gt;The DEC's proposed regulations are subject to public comment until Dec. 12, and a set of four public hearings across the state on the proposals kick off next week. On Monday, DEC spokeswoman Emily DeSantis said the agency won't take any shortcuts when it comes to protecting public health and the environment.&lt;/p&gt;              &lt;p&gt;"If high-volume hydraulic fracturing moves forward in New York, it will move forward with the most stringent standards in the nation to ensure New York's drinking water and other natural resources are thoroughly protected," she said. "Other states are playing catch up after their regulations proved to be inadequate."&lt;/p&gt;              &lt;p&gt;The DEC has been developing recommendations since 2008 on how to prevent or minimize the environmental impacts of high-volume hydrofracking, which involves a high-pressure mix of water and chemicals blasted into underground shale rock formations to unlock natural gas.&lt;/p&gt;              &lt;p&gt;The technique has been on hold in New York, which sits above the Marcellus and Utica shale formations, since the review was launched and will remain that way at least until the review is finalized next year. Martens said last month it's unclear if the state would be in a position to issue permits in 2012.&lt;/p&gt;              &lt;p&gt;It's not just the gas industry that is unsatisfied with the DEC's recommendations. A number of environmental and anti-fracking groups have spoken out against the 1,500-page document, saying it doesn't go far enough to protect the environment and public health.&lt;/p&gt;              &lt;p&gt;Assembly Environmental Chairman Robert Sweeney, D-Suffolk County, wrote his own letter to Martens last month, detailing more than 137 questions he wants answered regarding the impact of drilling on the environment.&lt;/p&gt;              &lt;p&gt;Sweeney said Monday that his letter "just reinforces what we've all been saying all along. As more time goes on, more questions arise, and the more we find that these questions have not been addressed."&lt;/p&gt;              &lt;p&gt;JCAMPBELL1@Gannett.com&lt;/p&gt;              &lt;p&gt;ID_Code: A2-111080312&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Rochester Democrat and Chronicle</Title>
+         <MpubId>45451</MpubId>
+         <SortTitle>Rochester Democrat and Chronicle</SortTitle>
+         <Qualifier>Rochester, N.Y.</Qualifier>
+         <JournalCode>RDMC</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18840101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Gannett Co., Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>1000 Wilson Blvd.</Address1>
+               <City>Arlington</City>
+               <Province>VA</Province>
+               <ZipCode>22229</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>98710</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60542.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Rochester Democrat and Chronicle</Title>
+            <SortTitle>Rochester Democrat and Chronicle</SortTitle>
+            <Qualifier>Rochester, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>98710</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60542.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Rochester Daily Democrat and Chronicle</Title>
+               <Qualifier>Rochester, N.Y.</Qualifier>
+               <EndIssueDate>18701216</EndIssueDate>
+               <CatalogNum>60542.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>Rochester Democrat and Chronicle</Title>
+               <Qualifier>Rochester, N.Y.</Qualifier>
+               <EndIssueDate>18840912</EndIssueDate>
+               <CatalogNum>60542.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1999</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19990101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 8, 2011</AlphaDate>
+         <StartDate>2011-11-08</StartDate>
+         <EndDate>2011-11-08</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>65434881</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

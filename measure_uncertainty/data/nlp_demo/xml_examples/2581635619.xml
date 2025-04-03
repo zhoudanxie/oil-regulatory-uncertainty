@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2581635619</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Heating bills to rise by at least $25 a month, We Energies says</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-14</NumericDate>
+      <StartDate>2021-10-14</StartDate>
+      <EndDate>2021-10-14</EndDate>
+      <AlphaDate>Oct 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright 2021 - THE REPORTER - All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+         <DocSection>News</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>6555</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_6555_Oct142021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>GNETRTRX20211014FND2530238865</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>GNETRTRX20211014FND2530238865</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1480</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Taschler, Joe</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joe</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joe Taschler</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Taschler</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Joe Taschler</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Bollier, Jeff</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jeff</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jeff Bollier</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Bollier</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jeff Bollier</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>WEC Energy Group</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>221122</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>221210</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Energy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Customers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Natural gas</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Wisconsin</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="515" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Soaring prices for natural gas will drive heating bills higher this coming winter, Milwaukee-based utility We Energies said Monday.&lt;/p&gt;
+&lt;p&gt;The utility said residential customers will see their bills rise by at least $25 a month.&lt;/p&gt;
+&lt;p&gt;"The price of natural gas has more than doubled this year and currently sits at the highest level in a decade," We Energies said in a statement.&lt;/p&gt;
+&lt;p&gt;An analysis done by the utility "predicts the typical residential customer will pay $25 more a month this winter compared to last year," assuming an average winter weather.&lt;/p&gt;
+&lt;p&gt;"This increase is mainly due to tight supplies as well as a worldwide increase in demand for natural gas," We Energies said in the statement.&lt;/p&gt;
+&lt;p&gt;We Energies serves 1.1 million natural gas customers in Wisconsin.&lt;/p&gt;
+&lt;p&gt;Wisconsin Public Service Corp., which along with We Energies is owned by WEC Energy Group, said the typical residential customer will pay $40 more a month this winter compared to last winter, assuming average weather conditions.&lt;/p&gt;
+&lt;p&gt;WPS has more than 335,000 natural gas customers in central, northern and northeastern Wisconsin, including the communities of Green Bay, Oshkosh, Wausau, Stevens Point and Door County. Matthew Cullen, a WPS spokesperson, said the price increases are not limited to Wisconsin utilities.&lt;/p&gt;
+&lt;p&gt;"This is not only here in Wisconsin. This is across the country and it's mainly due to tight supplies and worldwide increase in demand for natural gas," Cullen said.&lt;/p&gt;
+&lt;p&gt;The natural gas spot price – the cost if you have to buy it right now as opposed to locking in a price for future delivery – began last week at $5.80 for a thousand cubic feet, according to the U.S. Energy Information Administration.&lt;/p&gt;
+&lt;p&gt;During the same week last year, that same amount of natural gas was $1.92, according to the EIA.&lt;/p&gt;
+&lt;p&gt;Natural gas is a pass-through expense for the utility. "We Energies does not earn a profit on the gas it purchases for its customers," according to the utility statement.&lt;/p&gt;
+&lt;p&gt;We Energies uses a variety of strategies to ensure it has enough energy reserves to serve customers while trying to limit the impact of sudden price spikes.&lt;/p&gt;
+&lt;p&gt;The company buys and stores natural gas when it is typically lower priced. The utility also locks in guaranteed natural gas contracts at fixed prices, which helps protect against sudden price increases.&lt;/p&gt;
+&lt;p&gt;"This approach is estimated to lower this winter's gas costs for We Energies customers by 25%," according to the utility's statement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Energy assistance available&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;WEC Energy Group also said Monday that in order to help We Energies and WPS customers in need, it has donated $4 million to the Keep Wisconsin Warm Fund. The program provides direct financial assistance to help qualifying customers pay their utility bills.&lt;/p&gt;
+&lt;p&gt;"Significant federal assistance is also available," We Energies said. "Congress recently authorized $3.7 billion of federal funding to help low-income customers this winter."&lt;/p&gt;
+&lt;p&gt;Cullen said customers shouldn't wait to contact WPS or We Energies if they have trouble paying their utility bill.&lt;/p&gt;
+&lt;p&gt;"Give us a call right away," Cullen said. "We can work with customers to make payment arrangements and to provide them energy assistance information."&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Reporter</Title>
+         <MpubId>45139</MpubId>
+         <SortTitle>Reporter The</SortTitle>
+         <Qualifier>Fond du Lac, Wis.</Qualifier>
+         <JournalCode>XRTR</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <publisher>
+            <PublisherName>Gannett Media Corp</PublisherName>
+            <PublisherAddress>
+               <Address1>7950 Jones Branch Dr 2nd Fl</Address1>
+               <City>Mc Lean</City>
+               <Province>VA</Province>
+               <ZipCode>22108</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>6555</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>61931.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Reporter</Title>
+            <SortTitle>Reporter The</SortTitle>
+            <Qualifier>Fond du Lac, Wis.</Qualifier>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>6555</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>61931.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 21, 1999</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19990621</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 14, 2021</AlphaDate>
+         <StartDate>2021-10-14</StartDate>
+         <EndDate>2021-10-14</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_6555_Oct142021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

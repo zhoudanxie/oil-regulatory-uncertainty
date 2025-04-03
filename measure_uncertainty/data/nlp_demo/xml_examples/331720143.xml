@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>331720143</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="Publication">NEWSPAPER</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt>
+         <Title>MY VIEW: HISTORIC PRESERVATION? WHAT ABOUT FUTURE PRESERVATION?</Title>
+      </TitleAtt>
+      <NumericDate>2007-10-28</NumericDate>
+      <StartDate>2007-10-28</StartDate>
+      <EndDate>2007-10-28</EndDate>
+      <AlphaDate>Oct 28, 2007</AlphaDate>
+      <PageCount>0</PageCount>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>(Copyright 2007 Santa Fe New Mexican)</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>F.4</StartPage>
+         <Pagination>F-4</Pagination>
+         <DocSection>EDITORIAL</DocSection>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID IDOrigin="PQ">
+            <DOCID>1373514181</DOCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PCID>37442281</PCID>
+         </ObjectID>
+         <ObjectID IDOrigin="PQ">
+            <PMID>39538</PMID>
+         </ObjectID>
+         <ObjectID>
+            <ProvJournalCode>SFNM</ProvJournalCode>
+         </ObjectID>
+         <ObjectID IDOrigin="DTI">
+            <PublisherXID>SFNM539920429</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1580</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>TONY ALLEGRETTI, COURTESY PHOTOS</DisplayForm>
+               <OriginalFormAtt ContribOrigin="pqauth">
+                  <OriginalForm>TONY ALLEGRETTI, COURTESY PHOTOS</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <Term TermSource="ABI" PndxHeader="true">
+            <Personal>Coss, David</Personal>
+         </Term>
+         <Term TermSource="ABI" PndxHeader="true">
+            <Personal>Heldmeyer, Karen</Personal>
+         </Term>
+         <Term TermSource="ABI" PndxHeader="true">
+            <Personal>Walker, Karen</Personal>
+         </Term>
+         <Term TermSource="ABI" PndxHeader="true">
+            <Personal>Archuleta, Ed</Personal>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Short WordCount="187">
+            <AbsText HTMLContent="true">          &lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;   At a recent Business Capitol District Design Review Committee meeting, an opportunity to embrace Mayor David Coss' goal of "making Santa Fe a leader in renewable energy, sustainability and green design" was thrown out the window by the BCDDRC Chairperson Karen Heldmeyer and members Karen Walker and Ed Archuleta. They clearly feel that HVAC units on roofs are acceptable, but solar panels, unless the building is situated in a way that they would be in a straight line, are not.&lt;/p&gt;              &lt;p&gt;   Suby Bowden, a local architect who puts herself out as a "green" architect and a member of the Railyard Master Planning team, stood up and pointed to pictures of photovoltaic (PV) panels lying flat on a roof and said that we should be able to lay our panels flat. Without going into great detail, PV panels generate electricity, and solar thermal panels generate heat through water. Solar thermal systems provide more than twice the energy as PV panels. The fact that this "master planner" clearly doesn't know the difference between the two explains why solar and alternative energy sources were not incorporated into the master plan.&lt;/p&gt;            &lt;/body&gt;          &lt;/html&gt;</AbsText>
+         </Short>
+      </Abstract>
+      <LegacyDataMapping>       
+         <MappingVersion>$Header: /builds/sis990002/sis/gs40/RCS/gs51.xslt,v 2.5 2015/12/02 19:41:05 azastrow Exp $</MappingVersion>
+     </LegacyDataMapping>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="887" HTMLContent="true">&lt;html&gt;            &lt;head&gt;              &lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd"/&gt;              &lt;title&gt; &lt;/title&gt;            &lt;/head&gt;            &lt;body&gt;              &lt;p&gt;   At a recent Business Capitol District Design Review Committee meeting, an opportunity to embrace Mayor David Coss' goal of "making Santa Fe a leader in renewable energy, sustainability and green design" was thrown out the window by the BCDDRC Chairperson Karen Heldmeyer and members Karen Walker and Ed Archuleta. They clearly feel that HVAC units on roofs are acceptable, but solar panels, unless the building is situated in a way that they would be in a straight line, are not.&lt;/p&gt;              &lt;p&gt;   Our company, Wiv Co, is developing the ArtYard on the Railyard. Our goal is to reach a Gold LEED certification on this building, and possibly even have a chance of achieving a platinum certification. Some of the green features include water harvesting, gray water recycling, use of nontoxic materials and most importantly, a solar thermal heating system. We have estimated that the system we have proposed will reduce 27,600 pounds of carbon dioxide emissions per year, the equivalent of 1,380 gallons of gas. We estimate that with nine residential units and 8,000 square feet of commercial space, the natural gas consumption to heat this building after adding such a system would be about $1,000 to $1,500 per year (an average of $5.00 per month per owner). The entire natural gas consumption to heat this building will be the equivalent to 1.26 times that of one single homeowner's average gas consumption per year!&lt;/p&gt;              &lt;p&gt;   The few neighbors that have fought pretty much everything we have done at the ArtYard are quick to paint us as the "evil developers."&lt;/p&gt;              &lt;p&gt;   Dena Ross was the only opposing neighbor who spoke at the meeting. She stated that she felt our solar panels were not well enough incorporated into the building design. She failed to mention that she just completed five condos that she crammed into a small lot in the Alarid neighborhood (five units or less do not have to comply with the city's affordable ordinance). In Dena's marketing material, she states that her $500-per-foot condo units are designed to be able to add solar panels. Her development is not situated perfectly south, and the panels would more than likely be similar to ours.&lt;/p&gt;              &lt;p&gt;   Ex-mayoral candidate and committee member Karen Walker insinuated that these were an afterthought and that we should have situated the buildings south so that the panels would line up evenly on the roof. We first presented a design for the panels at a June 2006 Early Neighborhood Notification meeting. When designing the building, the existing terrain and best layout to accommodate parking and good flow of traffic were a main part of our focus. Solar panels can be angled to maximize their efficiency regardless of the buildings orientation. What would the City Different look like if every new building that wants solar had to face south?&lt;/p&gt;              &lt;p&gt;   Suby Bowden, a local architect who puts herself out as a "green" architect and a member of the Railyard Master Planning team, stood up and pointed to pictures of photovoltaic (PV) panels lying flat on a roof and said that we should be able to lay our panels flat. Without going into great detail, PV panels generate electricity, and solar thermal panels generate heat through water. Solar thermal systems provide more than twice the energy as PV panels. The fact that this "master planner" clearly doesn't know the difference between the two explains why solar and alternative energy sources were not incorporated into the master plan.&lt;/p&gt;              &lt;p&gt;   The state at least has some forethought on preserving our natural resources and passed House Bill 611 last year. The bill states, in part, "A county or municipality shall not restrict the installation of a solar collector as defined pursuant to the Solar Rights Act, except that placement of solar collectors in historic districts may be regulated or restricted by a county municipality." This development is not in a historic district.&lt;/p&gt;              &lt;p&gt;   If individuals like Karen Heldmeyer, Karen Walker and Ed Archuleta are in charge of the design of our city, the future will not be so bright. If we truly want to be a leader in sustainable energy, let's start putting our money where our mouth is. The city should not be issuing building permits unless a developer has demonstrated their building will be supplied, at least in part, by alternative energy sources.&lt;/p&gt;              &lt;p&gt;   I encourage any citizen with an interest in reducing our dependence on fossil fuels and foreign oil to call their councilors and let them know how they feel. It is time to stop letting the few who have time to cry to the councilors about their views take over our city. Get involved!&lt;/p&gt;              &lt;p&gt;   Personally, I feel this city would be much more beautiful with solar collectors on every building.&lt;/p&gt;              &lt;p&gt;   As we look at the 50th anniversary of our Historic Ordinance, let us also look to the future. Maybe we could be one of the first to adopt a "Future Preservation Ordinance." Without preserving our future, the past really doesn't matter that much.&lt;/p&gt;              &lt;p&gt;   Tony Allegretti is a partner in Wiv Co ArtYard project. He lives in Santa Fe.&lt;/p&gt;              &lt;div&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="pq_source" value="csx"/&gt;&lt;param name="pq_etype" value="41"/&gt;&lt;param name="mstar_entity_inline" value="N"/&gt;&lt;param name="mstar_entity_type" value="Illustration"/&gt;&lt;div class="Illustration_content"&gt;&lt;p&gt;Caption: 1.  An artist's rendition of theWiv Co's ArtYard project with added solar panels.&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/div&gt;            &lt;/body&gt;          &lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Santa Fe New Mexican</Title>
+         <MpubId>45305</MpubId>
+         <SortTitle>Santa Fe New Mexican The</SortTitle>
+         <Qualifier>Santa Fe, N.M.</Qualifier>
+         <JournalCode>SFNM</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19880101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Santa Fe New Mexican</PublisherName>
+            <PublisherAddress>
+               <Address1>202 E. Marcy Street</Address1>
+               <City>SANTA FE</City>
+               <Province>NM</Province>
+               <ZipCode>87504</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>39538</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>19384068</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60522.00</CatalogNum>
+         <Languages>
+            <Language>spa</Language>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Santa Fe New Mexican</Title>
+            <SortTitle>Santa Fe New Mexican The</SortTitle>
+            <Qualifier>Santa Fe, N.M.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>39538</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>19384068</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60522.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>New Mexican Review</Title>
+               <Qualifier>Santa Fe, N.M.</Qualifier>
+               <EndIssueDate>18491101</EndIssueDate>
+               <CatalogNum>60522.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>New Mexican</Title>
+               <Qualifier>Santa Fe, N.M.</Qualifier>
+               <EndIssueDate>19880410</EndIssueDate>
+               <CatalogNum>60522.F0</CatalogNum>
+            </History>
+            <History>
+               <Title>Santa Fe New Mexican</Title>
+               <Qualifier>Santa Fe, N.M.</Qualifier>
+               <EndIssueDate>19511031</EndIssueDate>
+               <CatalogNum>60522.E0</CatalogNum>
+            </History>
+            <History>
+               <Title>Santa Fe Daily New Mexican</Title>
+               <Qualifier>Santa Fe, N.M.</Qualifier>
+               <EndIssueDate>18971231</EndIssueDate>
+               <CatalogNum>60522.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Santa Fe New Mexican Review</Title>
+               <Qualifier>Santa Fe, N.M.</Qualifier>
+               <EndIssueDate>18850707</EndIssueDate>
+               <CatalogNum>60522.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Santa Fe New Mexican</Title>
+               <Qualifier>Santa Fe, N.M.</Qualifier>
+               <EndIssueDate>18830605</EndIssueDate>
+               <CatalogNum>60522.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1994</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19940101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 28, 2007</AlphaDate>
+         <StartDate>2007-10-28</StartDate>
+         <EndDate>2007-10-28</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>37442281</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>
