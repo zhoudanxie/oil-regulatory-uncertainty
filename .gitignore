@@ -15,3 +15,6 @@ po/*~
 
 # Pycharm folder
 .idea/
+
+# Archive folder
+_archive/
