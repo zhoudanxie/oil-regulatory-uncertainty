@@ -36,8 +36,6 @@ The data used in the paper are stored in two subdirectories:
 
 A summary of all raw data and sources is available in **Table D1.1**. The raw data were cleaned and/or merged to create final analysis-ready datasets. **Table D1.2** lists all processed datasets constructed from the raw data and the name of the script that generated it.
 
----
-
 ### Table D1.1: Raw Data and Sources
 
 | Data Name | Data File Location | Provided | Citation |
@@ -69,7 +67,6 @@ A summary of all raw data and sources is available in **Table D1.1**. The raw da
 | Climate policy uncertainty (CPU) index | cpu_index.csv `/measure_uncertainty/data/supplementary_data` | TRUE | Gavriilidis (2021) |
 | Geopolitical risk (GPR) index | gpr_index.xls `/measure_uncertainty/data/supplementary_data` | TRUE | Caldara and Iacoviello (2022) |
 
----
 
 ### Table D1.2: Processed Data
 
