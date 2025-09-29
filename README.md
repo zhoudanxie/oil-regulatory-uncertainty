@@ -198,7 +198,7 @@ A summary of the inputs and outputs for each Python script is available in Table
 
 ### Software Requirements
 
-- ✔ The replication package contains one or more programs to install all dependencies and set up the necessary directory structure.  
+- The replication package contains one or more programs to install all dependencies and set up the necessary directory structure.  
 - **Python 3.10+**  
   - A virtual Python environment should be created using `requirements.txt` in the home directory.  
   - Please run:  
